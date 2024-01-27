@@ -5,11 +5,11 @@ export default defineConfig({
   base: '/xuevitepress/',
   title: "bao",
   description: "xiaobao",
-  lastUpdatedText: "最后更新",
   head: [["link", { rel: "icon", href: "/xuevitepress/ico.ico" }]],
   themeConfig: {
     siteTitle: '宝小宝',
     logo: "/telegram-copy.svg",
+    lastUpdatedText: "最后更新",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
