@@ -13,7 +13,7 @@ export default defineConfig({
           href: "/ico.ico" // Logo文件路径
       }
     ]
-  ]
+  ],
   themeConfig: {
     siteTitle: '宝小宝',
     logo: "/telegram.svg",
