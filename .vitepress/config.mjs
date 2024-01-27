@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/xuevitepress/',
   title: "bao",
   description: "xiaobao",
+  lastUpdatedText: "最后更新",
   head: [["link", { rel: "icon", href: "/xuevitepress/ico.ico" }]],
   themeConfig: {
     siteTitle: '宝小宝',
