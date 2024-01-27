@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/xuevitepress/',
   title: "bao",
   description: "xiaobao",
-  head: [["link", { rel: "icon", href: "/xuevitepress/telegram.svg" }]],
+  head: [["link", { rel: "icon", href: "/xuevitepress/ico.ico" }]],
   themeConfig: {
     siteTitle: '宝小宝',
     logo: "/telegram.svg",
