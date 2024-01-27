@@ -8,7 +8,7 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "/xuevitepress/ico.ico" }]],
   themeConfig: {
     siteTitle: '宝小宝',
-    logo: "/telegram.svg",
+    logo: "/telegram-copy.svg",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
