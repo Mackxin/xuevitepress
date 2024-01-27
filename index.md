@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: 宝小白
+  - title: 🌟宝小白
     details: 一个小白导航
-  - title: 宝小报
+  - title: 🚀宝小报
     details: 一个小报资讯
-  - title: 小宝
+  - title: 📝小宝
     details: 小小宝的小宝
 ---
 
