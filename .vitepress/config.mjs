@@ -5,8 +5,18 @@ export default defineConfig({
   base: '/xuevitepress/',
   title: "bao",
   description: "xiaobao",
+  head: [
+    [
+      "link",
+      {
+          rel: "icon",
+          href: "/ico.ico" // Logo文件路径
+      }
+    ]
+  ]
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    siteTitle: '宝小宝',
+    logo: "/telegram.svg",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
