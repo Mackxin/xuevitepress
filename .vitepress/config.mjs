@@ -9,6 +9,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: '宝小宝',
     logo: "/telegram-copy.svg",
+    lastUpdated: true,
     lastUpdatedText: "最后更新",
     nav: [
       { text: 'Home', link: '/' },
