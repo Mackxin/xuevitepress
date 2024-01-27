@@ -19,6 +19,7 @@ export default defineConfig({
     logo: "/telegram.svg",
     nav: [
       { text: 'Home', link: '/' },
+      { text: '宝小宝', link: 'http://baoxiaobao.asia' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
