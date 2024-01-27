@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Git', link: '/git' },
       { text: '宝小宝', link: 'http://baoxiaobao.asia' }
     ],
 
@@ -43,6 +44,10 @@ export default defineConfig({
           },
         },
       },
+    },
+    docFooter: { 
+      prev: '上一页', 
+      next: '下一页' 
     },
 
     socialLinks: [
