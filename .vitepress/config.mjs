@@ -13,6 +13,7 @@ export default defineConfig({
     lastUpdatedText: "最后更新",
     nav: [
       { text: '首页', link: '/' },
+      { text: 'Vitepress', link: '/vitepress/' },
       {
         text: '文档',
         items: [
@@ -36,6 +37,7 @@ export default defineConfig({
         text: 'Vitepress',
         collapsed: true,
         items: [
+          { text: '学习', link: '/vitepress/' },
           { text: '01.安装必备软件', link: 'vitepress/01.安装必备软件' },
           { text: '02.准备工作', link: 'vitepress/02.准备工作' },
           { text: '03.安装向导', link: 'vitepress/03.安装向导' }
