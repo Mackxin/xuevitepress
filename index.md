@@ -11,11 +11,11 @@ hero:
     alt: 小宝元报
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 宝小宝
+      link: http://baoxiaobao.asia/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Git教程
+      link: /git
 
 features:
   - title: 🌟宝小白
