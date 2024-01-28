@@ -41,7 +41,8 @@ export default defineConfig({
           { text: '01.安装必备软件', link: 'vitepress/01.安装必备软件' },
           { text: '02.准备工作', link: 'vitepress/02.准备工作' },
           { text: '03.安装向导', link: 'vitepress/03.安装向导' },
-          { text: '04.新建.gitignore的文件', link: 'vitepress/新建.gitignore的文件' }
+          { text: '04.新建.gitignore的文件', link: 'vitepress/04.新建.gitignore的文件' },
+          { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' }
         ]
       }
     ],
