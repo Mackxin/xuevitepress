@@ -40,7 +40,8 @@ export default defineConfig({
           { text: '学习', link: '/vitepress/' },
           { text: '01.安装必备软件', link: 'vitepress/01.安装必备软件' },
           { text: '02.准备工作', link: 'vitepress/02.准备工作' },
-          { text: '03.安装向导', link: 'vitepress/03.安装向导' }
+          { text: '03.安装向导', link: 'vitepress/03.安装向导' },
+          { text: '04.新建.gitignore的文件', link: 'vitepress/新建.gitignore的文件' }
         ]
       }
     ],
