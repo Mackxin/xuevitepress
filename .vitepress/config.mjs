@@ -69,7 +69,7 @@ export default defineConfig({
       next: '下一页' 
     },
     editLink: {
-      pattern: 'https://github.com/Mackxin/xuevitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/Mackxin/xuevitepress/',
       text: '到你的GitHub页面上编辑'
     },
 
