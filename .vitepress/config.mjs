@@ -42,7 +42,8 @@ export default defineConfig({
           { text: '02.准备工作', link: 'vitepress/02.准备工作' },
           { text: '03.安装向导', link: 'vitepress/03.安装向导' },
           { text: '04.新建.gitignore的文件', link: 'vitepress/04.新建.gitignore文件' },
-          { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' }
+          { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' },
+          { text: '06.开启GithubActions', link: 'vitepress/06.开启GithubActions' }
         ]
       }
     ],
