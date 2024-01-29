@@ -8,7 +8,7 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "/xuevitepress/ico.ico" }]],
   themeConfig: {
     siteTitle: '宝小宝',
-    logo: "/telegram-copy.svg",
+    logo: "/bao.svg",
     lastUpdated: true,
     lastUpdatedText: "最后更新",
     nav: [
