@@ -14,6 +14,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'Vitepress', link: '/vitepress/' },
+      { text: '关于', link: '/about/' },
       {
         text: '文档',
         items: [
@@ -44,6 +45,13 @@ export default defineConfig({
           { text: '04.新建.gitignore的文件', link: 'vitepress/04.新建.gitignore文件' },
           { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' },
           { text: '06.开启GithubActions', link: 'vitepress/06.开启GithubActions' }
+        ]
+      },
+      {
+        text: '关于宝',
+        collapsed: false,
+        items: [
+          { text: '宝小宝', link: '/about/' },
         ]
       }
     ],
