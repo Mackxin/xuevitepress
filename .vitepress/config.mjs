@@ -18,8 +18,7 @@ export default defineConfig({
       {
         text: '文档',
         items: [
-          { text: 'git', link: '/git' },
-          { text: 'vitepress-github', link: '/vitepress-github' }
+          { text: 'git', link: '/git' }
         ]
       },
       { text: '宝小宝', link: 'http://baoxiaobao.asia' }
@@ -30,8 +29,7 @@ export default defineConfig({
         text: '文档',
         collapsed: true,
         items: [
-          { text: 'git教程', link: '/git' },
-          { text: 'vitepress-github', link: '/vitepress-github' }
+          { text: 'git教程', link: '/git' }
         ]
       },
       {
@@ -44,7 +42,8 @@ export default defineConfig({
           { text: '03.安装向导', link: 'vitepress/03.安装向导' },
           { text: '04.新建.gitignore的文件', link: 'vitepress/04.新建.gitignore文件' },
           { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' },
-          { text: '06.开启GithubActions', link: 'vitepress/06.开启GithubActions' }
+          { text: '06.开启GithubActions', link: 'vitepress/06.开启GithubActions' },
+          { text: '07.css样式没有加载', link: 'vitepress/07.css样式没有加载' }
         ]
       },
       {
