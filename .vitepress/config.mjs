@@ -11,6 +11,12 @@ export default defineConfig({
     logo: "/bao.svg",
     lastUpdated: true,
     lastUpdatedText: "最后更新",
+    markdown: {
+      theme: {
+        light: "material-lighter",
+        dark: "material-darker",
+      },
+    },
     nav: [
       { text: '首页', link: '/' },
       { text: 'Vitepress', link: '/vitepress/' },
@@ -44,6 +50,14 @@ export default defineConfig({
           { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' },
           { text: '06.开启GithubActions', link: 'vitepress/06.开启GithubActions' },
           { text: '07.css样式没有加载', link: 'vitepress/07.css样式没有加载' }
+        ]
+      },
+      {
+        text: '宝下载',
+        collapsed: false,
+        items: [
+          { text: '宝下载', link: '/download/' },
+          { text: 'B站视频下载', link: '/download/bilibili' }
         ]
       },
       {
