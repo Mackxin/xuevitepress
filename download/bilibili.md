@@ -44,3 +44,34 @@ https://bilibili.zanqianba.com/
 
 支持视频号/抖音/快手/公众号/小红书/bilibili等100多个平台的视频提取
 
+## Bilibili-Evolved
+
+https://github.com/the1812/Bilibili-Evolved
+
+强大的哔哩哔哩增强脚本
+
+需要浏览器装有 Tampermonkey 或 Violentmonkey 插件
+
+## BBDown
+
+https://github.com/nilaoda/BBDown
+
+一款命令行式哔哩哔哩下载器. Bilibili Downloader
+
+## bilibili哔哩哔哩B站下载助手
+
+https://csser.top/
+
+## 贝贝BiliBili
+
+https://xbeibeix.com/api/bilibili/
+
+## bilix
+
+https://github.com/HFrost0/bilix
+
+https://hfrost0.github.io/bilix/
+
+快如闪电的异步下载工具，支持bilibili及更多
+
+

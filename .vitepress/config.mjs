@@ -61,6 +61,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '动漫',
+        collapsed: true,
+        items: [
+          { text: '动漫', link: '/cartoon/' }
+        ]
+      },
+      {
         text: '关于宝',
         collapsed: false,
         items: [
