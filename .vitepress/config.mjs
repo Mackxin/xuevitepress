@@ -79,6 +79,14 @@ export default defineConfig({
         ]
       },
       {
+        text: '小白',
+        collapsed: true,
+        items: [
+          { text: '小白', link: '/xiaobai/' },
+          { text: '新手', link: '/xiaobai/xinshou' }
+        ]
+      },
+      {
         text: '关于宝',
         collapsed: false,
         items: [
