@@ -54,7 +54,8 @@ export default defineConfig({
           { text: '05.推送本地代码到服务器', link: 'vitepress/05.推送本地代码到服务器' },
           { text: '06.开启GithubActions', link: 'vitepress/06.开启GithubActions' },
           { text: '07.css样式没有加载', link: 'vitepress/07.css样式没有加载' },
-          { text: '08.添加标签栏的图标', link: 'vitepress/08.添加标签栏的图标' }
+          { text: '08.添加标签栏的图标', link: 'vitepress/08.添加标签栏的图标' },
+          { text: '09.顶部导航右边社交配置', link: 'vitepress/09.顶部导航右边社交配置' }
         ]
       },
       {
