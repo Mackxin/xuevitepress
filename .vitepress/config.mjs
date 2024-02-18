@@ -27,7 +27,8 @@ export default defineConfig({
           { text: 'Git', link: '/git' },
           { text: '动漫', link: '/cartoon/' },
           { text: '开源', link: '/kaiyuan/' },
-          { text: '下载', link: '/download/' }
+          { text: '下载', link: '/download/' },
+          { text: '小白', link: '/xiaobai/' }
         ]
       },
       { text: '宝小宝', link: 'http://baoxiaobao.asia' }
