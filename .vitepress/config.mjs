@@ -24,7 +24,10 @@ export default defineConfig({
       {
         text: '文档',
         items: [
-          { text: 'git', link: '/git' }
+          { text: 'Git', link: '/git' },
+          { text: '动漫', link: '/cartoon/' },
+          { text: '开源', link: '/kaiyuan/' },
+          { text: '下载', link: '/download/' }
         ]
       },
       { text: '宝小宝', link: 'http://baoxiaobao.asia' }
@@ -65,6 +68,13 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '动漫', link: '/cartoon/' }
+        ]
+      },
+      {
+        text: '开源',
+        collapsed: true,
+        items: [
+          { text: 'GitHub', link: '/kaiyuan/' }
         ]
       },
       {
