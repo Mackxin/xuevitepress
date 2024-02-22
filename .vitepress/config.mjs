@@ -56,7 +56,8 @@ export default defineConfig({
           { text: '07.css样式没有加载', link: 'vitepress/07.css样式没有加载' },
           { text: '08.添加标签栏的图标', link: 'vitepress/08.添加标签栏的图标' },
           { text: '09.顶部导航右边社交配置', link: 'vitepress/09.顶部导航右边社交配置' },
-          { text: '10.首页配置', link: 'vitepress/10.首页配置' }
+          { text: '10.首页配置', link: 'vitepress/10.首页配置' },
+          { text: '11.页脚配置', link: 'vitepress/11.页脚配置' }
         ]
       },
       {
@@ -136,6 +137,10 @@ export default defineConfig({
         // 也可以为无障碍添加一个自定义标签 (可选但推荐):
         ariaLabel: 'cool link'
       }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License',
+      copyright: 'Copyright © 2024-BaoXiaoBao <a href="http://baoxiaobao.asia/" target="_blank">👽宝小宝</a>'
+    }
   }
 })
