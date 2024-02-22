@@ -61,7 +61,8 @@ export default defineConfig({
           { text: '11.页脚配置', link: 'vitepress/11.页脚配置' },
           { text: '12.文档右边侧边栏配置', link: 'vitepress/12.文档右边侧边栏配置' },
           { text: '13.最后更新时间配置', link: 'vitepress/13.最后更新时间配置' },
-          { text: '14.上一页下一页', link: 'vitepress/14.上一页下一页' }
+          { text: '14.上一页下一页', link: 'vitepress/14.上一页下一页' },
+          { text: '15.自定义编辑链接', link: 'vitepress/15.自定义编辑链接' }
         ]
       },
       {
