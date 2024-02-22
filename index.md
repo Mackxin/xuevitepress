@@ -7,7 +7,7 @@ hero:
   text: "微信公众号：小宝元报"
   tagline: 一个跟宝有关的网站
   image:
-    src: /xiaobaoyuanbao.jpg
+    src: /xiaobaoyuanbao.png
     alt: 小宝元报
   actions:
     - theme: brand
