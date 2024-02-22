@@ -10,7 +10,8 @@ export default defineConfig({
     siteTitle: '宝小宝',
     logo: "/bao.svg",
     lastUpdated: true,
-    lastUpdatedText: "最后更新",
+    lastUpdatedText: "最新更新",
+    outlineTitle: "本页目录",
     markdown: {
       theme: {
         light: "material-lighter",
@@ -57,7 +58,10 @@ export default defineConfig({
           { text: '08.添加标签栏的图标', link: 'vitepress/08.添加标签栏的图标' },
           { text: '09.顶部导航右边社交配置', link: 'vitepress/09.顶部导航右边社交配置' },
           { text: '10.首页配置', link: 'vitepress/10.首页配置' },
-          { text: '11.页脚配置', link: 'vitepress/11.页脚配置' }
+          { text: '11.页脚配置', link: 'vitepress/11.页脚配置' },
+          { text: '12.文档右边侧边栏配置', link: 'vitepress/12.文档右边侧边栏配置' },
+          { text: '13.最后更新时间配置', link: 'vitepress/13.最后更新时间配置' },
+          { text: '14.上一页下一页', link: 'vitepress/14.上一页下一页' }
         ]
       },
       {
@@ -119,11 +123,11 @@ export default defineConfig({
       },
     },
     docFooter: { 
-      prev: '上一页', 
-      next: '下一页' 
+      prev: '上一文', 
+      next: '下一文' 
     },
     editLink: {
-      pattern: 'https://github.com/Mackxin/xuevitepress/',
+      pattern: 'https://github.com/Mackxin/xuevitepress/edit/main/:path',
       text: '到你的GitHub页面上编辑'
     },
 
