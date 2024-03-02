@@ -14,4 +14,20 @@ Pebblely可以一键生成符合产品特性的场景图，及AI生成背景图
 
 https://app.pebblely.com/
 
+### FlairAI
+
+可在几秒钟内生成令人惊叹的产品照片
+
+使用令人惊叹的模板制作出色的内容
+
+https://flair.ai/
+
+### PromeAI
+
+彻底改变您的工作方式，让AI为您提高效率，释放您的创造潜能
+
+功能很强大，有图片生成，图片编辑，背景生成，文字效果等等功能
+
+[官方网址](https://www.promeai.com/?vsource=i_buwrxedtu7)
+
 ## 软件分享
