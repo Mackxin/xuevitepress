@@ -29,7 +29,8 @@ export default defineConfig({
           { text: '动漫', link: '/cartoon/' },
           { text: '开源', link: '/kaiyuan/' },
           { text: '下载', link: '/download/' },
-          { text: '小白', link: '/xiaobai/' }
+          { text: '小白', link: '/xiaobai/' },
+          { text: '电商', link: '/dianshang/' }
         ]
       },
       { text: '宝小宝', link: 'http://baoxiaobao.asia' }
